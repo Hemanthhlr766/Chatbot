@@ -1,1 +1,13 @@
 
+node_modules/
+frontend/node_modules/
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+backend/.env
+frontend/.env
+backend/media/
+staticfiles/
+build/
+dist/
